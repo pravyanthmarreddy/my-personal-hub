@@ -15,7 +15,7 @@
 
 **Engineering ideas into practical systems.**
 
-[Explore Projects](#-featured-projects) • [Technical Skills](#-technical-toolkit) • [Learning Roadmap](#-currently-exploring) • [Connect](#-lets-connect)
+[Explore Projects](#-featured-projects) • [Learning Roadmap](#-currently-exploring) • [Connect](#-lets-connect)
 
 </div>
 
