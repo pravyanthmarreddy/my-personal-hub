@@ -117,6 +117,8 @@ An AI software project exploring conversational systems and API integration.
 
 **Next steps:** RAG, vector databases, and tool integration.
 
+🔗 **GitHub Repository:** [LLM-Chatbot](https://github.com/pravyanthmarreddy/LLM-Chatbot)
+
 
 </td>
 <td width="50%" valign="top">
