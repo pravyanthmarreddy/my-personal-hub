@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F766E,100:06B6D4&height=220&section=header&text=PRAVYANTH%20MARREDDY&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=ROBOTICS%20%7C%20EMBEDDED%20SYSTEMS%20%7C%20AI&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Profile banner"/>
 
@@ -89,6 +89,7 @@ A robotics project focused on stability, sensor feedback, and motor control.
 </td>
 <td width="50%" valign="top">
 
+
 ### 🦺 Industrial Safety Helmet
 
 A semester project exploring electronic systems designed to support industrial and construction worker safety.
@@ -99,11 +100,12 @@ A semester project exploring electronic systems designed to support industrial a
 - Sensor-based monitoring concepts
 - Automation and prototyping
 
-
+**Project Link:** <a href="https://github.com/pravyanthmarreddy/smart_safety_helmet" target="_blank">View Smart Safety Helmet on GitHub →</a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+
 
 ### 🧠 Python AI Agent
 
